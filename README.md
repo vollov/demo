@@ -1,4 +1,7 @@
 demo
 ====
 
-This is a demo repository for git practice
+This is a repository for programming demos
+
+builds:	software builds
+java:	java programming
